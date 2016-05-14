@@ -1,0 +1,1 @@
+Parser for java vacancies. (Jsoup, MVC, Strategy)

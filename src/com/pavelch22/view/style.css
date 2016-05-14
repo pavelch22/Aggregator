@@ -1,0 +1,16 @@
+body {
+    background-color: #262626;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #c0c0c0;
+    width: 100%;
+}
+
+th {
+    background-color: #99ff99;
+    color: #000000;
+}
+
+tr:nth-child(even) {background-color: #eeeeee}
